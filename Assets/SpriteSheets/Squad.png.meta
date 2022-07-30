@@ -3752,7 +3752,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squad_176
+      name: Squad_Portrait1
       rect:
         serializedVersion: 2
         x: 0
@@ -3773,7 +3773,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squad_178
+      name: Squad_Portrait2
       rect:
         serializedVersion: 2
         x: 73
@@ -3794,7 +3794,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squad_180
+      name: Squad_Portrait3
       rect:
         serializedVersion: 2
         x: 146
@@ -3815,7 +3815,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squad_182
+      name: Squad_Portrait4
       rect:
         serializedVersion: 2
         x: 219
@@ -4003,6 +4003,90 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Squad_Title1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 72
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528c4390db069af4a81b1725e6314274
+      internalID: 1756211968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_Title2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 72
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b21819f061a21c439993c8a864d2d8f
+      internalID: 729342547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_Title3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 72
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c14a86a9464c3f4eb65319a1e004bf3
+      internalID: -909709781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_Title4
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 72
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e97342432545cb4ba34ad8be5811f0a
+      internalID: 931083400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -4014,6 +4098,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      Squad_Title4: 931083400
       Squad_88: 2090532645
       Squad_122: 851142490
       Squad_188: 248653810
@@ -4021,16 +4106,18 @@ TextureImporter:
       Squad_12: -1829721258
       Squad_39: -674101367
       Squad_181: 1604624323
+      Squad_Title1: 1756211968
       Squad_80: -1071289915
       Squad_175: -1569150811
       Squad_118: 2065373182
       Squad_33: 1213854309
+      Squad_165: 1649710226
       Squad_129: 1469679975
       Squad_128: -1881951287
-      Squad_165: 1649710226
+      Squad_Bullet_Impact: 2062095474
       Squad_13: 1729080643
-      Squad_141: -1829892392
       Squad_Green_SW: -1264520565
+      Squad_141: -1829892392
       Squad_179: 71774156
       Squad_116: 1029741167
       Squad_86: 1329037555
@@ -4047,13 +4134,13 @@ TextureImporter:
       Squad_189: -717720497
       Squad_67: 2138422121
       Squad_143: 1417044256
+      Squad_Portrait2: -1630571250
       Squad_183: 1741106209
       Squad_193: 1011389886
-      Squad_Bullet_Impact: 2062095474
       Squad_103: 212769532
-      Squad_178: -1630571250
       Squad_27: -895918452
       Squad_85: 578766404
+      Squad_Portrait4: -1987664605
       Squad_177: 390971430
       Squad_47: -1197427168
       Squad_84: -1773885026
@@ -4081,7 +4168,6 @@ TextureImporter:
       Squad_104: -895768959
       Squad_36: -607074094
       Squad_77: 2134744575
-      Squad_182: -1987664605
       Squad_31: -1231950686
       Squad_114: -1281286639
       Squad_15: 1916915090
@@ -4105,7 +4191,6 @@ TextureImporter:
       Squad_108: -1168118624
       Squad_43: 1347267678
       Squad_95: -1862337798
-      Squad_180: -1312044175
       Squad_40: 1224156599
       Squad_62: -972607722
       Squad_38: 1462256638
@@ -4115,7 +4200,6 @@ TextureImporter:
       Squad_153: 924922379
       Squad_157: -2009416743
       Squad_163: -557268235
-      Squad_176: 1925023891
       Squad_192: -99181952
       Squad_159: -1132077974
       Squad_30: -1406925194
@@ -4176,9 +4260,11 @@ TextureImporter:
       Squad_191: 458756661
       Squad_79: -2052375890
       Squad_74: -342541936
+      Squad_Portrait3: -1312044175
       Squad_56: 422325953
       Squad_94: 1180613227
       Squad_150: 1009481134
+      Squad_Title2: 729342547
       Squad_Green_S: 554415066
       Squad_54: 1130406607
       Squad_101: -2052085443
@@ -4193,8 +4279,10 @@ TextureImporter:
       Squad_139: -808252657
       Squad_152: -1346437429
       Squad_Green_NE: -658001461
+      Squad_Title3: -909709781
       Squad_99: 1490844713
       Squad_173: -2058133735
+      Squad_Portrait1: 1925023891
       Squad_22: 1208706872
       Squad_168: -712586414
       Squad_120: -1584770846

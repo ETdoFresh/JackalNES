@@ -35,6 +35,15 @@ public partial class @InputActions : IInputActionCollection2, IDisposable
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": false
+                },
+                {
+                    ""name"": ""Select"",
+                    ""type"": ""Button"",
+                    ""id"": ""475255e5-6e81-4556-ad32-9ce3b50ce51c"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """",
+                    ""initialStateCheck"": false
                 }
             ],
             ""bindings"": [
@@ -57,6 +66,39 @@ public partial class @InputActions : IInputActionCollection2, IDisposable
                     ""processors"": """",
                     ""groups"": """",
                     ""action"": ""Start"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""9dce0dac-264f-4fa6-820a-0d53b52fa62a"",
+                    ""path"": ""<Keyboard>/upArrow"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Select"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""6bcc0ec1-2171-45d7-88a3-1e93d5e339bd"",
+                    ""path"": ""<Keyboard>/downArrow"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Select"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""65cdb941-7ac0-4f56-953d-25e058711490"",
+                    ""path"": ""<Gamepad>/select"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Select"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
                 }
@@ -185,6 +227,28 @@ public partial class @InputActions : IInputActionCollection2, IDisposable
                 },
                 {
                     ""name"": """",
+                    ""id"": ""6b2be9f1-ea7d-40d0-a797-89c182aa6405"",
+                    ""path"": ""<Keyboard>/space"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Shoot Bullet"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""4e5c197b-c4cc-4b6c-abf8-80b38ebbc8e6"",
+                    ""path"": ""<Mouse>/leftButton"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Shoot Bullet"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
                     ""id"": ""a96332f4-9266-4918-90a5-42c66ce14d1e"",
                     ""path"": ""<Gamepad>/buttonSouth"",
                     ""interactions"": """",
@@ -202,6 +266,7 @@ public partial class @InputActions : IInputActionCollection2, IDisposable
         // Menu
         m_Menu = asset.FindActionMap("Menu", throwIfNotFound: true);
         m_Menu_Start = m_Menu.FindAction("Start", throwIfNotFound: true);
+        m_Menu_Select = m_Menu.FindAction("Select", throwIfNotFound: true);
         // Gameplay
         m_Gameplay = asset.FindActionMap("Gameplay", throwIfNotFound: true);
         m_Gameplay_MovementP1 = m_Gameplay.FindAction("Movement P1", throwIfNotFound: true);
@@ -267,11 +332,13 @@ public partial class @InputActions : IInputActionCollection2, IDisposable
     private readonly InputActionMap m_Menu;
     private IMenuActions m_MenuActionsCallbackInterface;
     private readonly InputAction m_Menu_Start;
+    private readonly InputAction m_Menu_Select;
     public struct MenuActions
     {
         private @InputActions m_Wrapper;
         public MenuActions(@InputActions wrapper) { m_Wrapper = wrapper; }
         public InputAction @Start => m_Wrapper.m_Menu_Start;
+        public InputAction @Select => m_Wrapper.m_Menu_Select;
         public InputActionMap Get() { return m_Wrapper.m_Menu; }
         public void Enable() { Get().Enable(); }
         public void Disable() { Get().Disable(); }
@@ -284,6 +351,9 @@ public partial class @InputActions : IInputActionCollection2, IDisposable
                 @Start.started -= m_Wrapper.m_MenuActionsCallbackInterface.OnStart;
                 @Start.performed -= m_Wrapper.m_MenuActionsCallbackInterface.OnStart;
                 @Start.canceled -= m_Wrapper.m_MenuActionsCallbackInterface.OnStart;
+                @Select.started -= m_Wrapper.m_MenuActionsCallbackInterface.OnSelect;
+                @Select.performed -= m_Wrapper.m_MenuActionsCallbackInterface.OnSelect;
+                @Select.canceled -= m_Wrapper.m_MenuActionsCallbackInterface.OnSelect;
             }
             m_Wrapper.m_MenuActionsCallbackInterface = instance;
             if (instance != null)
@@ -291,6 +361,9 @@ public partial class @InputActions : IInputActionCollection2, IDisposable
                 @Start.started += instance.OnStart;
                 @Start.performed += instance.OnStart;
                 @Start.canceled += instance.OnStart;
+                @Select.started += instance.OnSelect;
+                @Select.performed += instance.OnSelect;
+                @Select.canceled += instance.OnSelect;
             }
         }
     }
@@ -347,6 +420,7 @@ public partial class @InputActions : IInputActionCollection2, IDisposable
     public interface IMenuActions
     {
         void OnStart(InputAction.CallbackContext context);
+        void OnSelect(InputAction.CallbackContext context);
     }
     public interface IGameplayActions
     {
