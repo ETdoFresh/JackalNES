@@ -1,0 +1,4218 @@
+fileFormatVersion: 2
+guid: 47f75c03cb4f9bc4b80a21207713578b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Squad_Green_NW
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 790
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ca97cb9a1143140aa2fc95f234c9d8
+      internalID: -1088560699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_Green_N
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 790
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb2a4fe1a1842641b6c4a3b7e52ec93
+      internalID: 136153955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_Green_NE
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 790
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29391ad888b56348817c37e77a7c8ef
+      internalID: -658001461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_Green_E
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 790
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c1a2a7da46ba54fa9792baee567ef0
+      internalID: -562586266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_4
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 790
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccecc007708e15d41834fd77871ae00b
+      internalID: 696189054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 790
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf56c1d684290344f95eda57efc7f81b
+      internalID: 987137617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 790
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30106603690bd38459002d854ec384e4
+      internalID: -973765204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_7
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 790
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e88132a1bee5c43a5db93c831134ba
+      internalID: 1950761041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_Green_W
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 757
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5342fffb09418724c9ccb3c697c01e50
+      internalID: 532791940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_Green_SW
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 757
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ce8ff20da4b4e49b1aef24f68cac99
+      internalID: -1264520565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_Green_S
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 757
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648a28c7e83c430488c6a2fc23efdf9d
+      internalID: 554415066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_Green_SE
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 757
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba61d3be9a789f1479fd9f3cd8b23fbf
+      internalID: -1883647608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_12
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 757
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1409a855eb265e4c840b670958f641e
+      internalID: -1829721258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 757
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5648b5dc5de173743941f5da8cc7f4c5
+      internalID: 1729080643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_14
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 757
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23405e6015294fb4ab50336ce6ebafdf
+      internalID: -1349156337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_15
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 757
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35eef69d3ca394b4e8edbf620fce7860
+      internalID: 1916915090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 724
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f728df6f7ed19e24683c4912c4b4bfde
+      internalID: -1381826090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 724
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805169c75007a5f488c1b799f907d197
+      internalID: -1121554798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_18
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 724
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c7177d175044e46899de19eff1c502
+      internalID: -2137136999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_19
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 724
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78ad1fad74c47c49b1a000d6d1af4da
+      internalID: -1383326625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_20
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 724
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6a4f7ad99462942820574732661d37
+      internalID: -1244481970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_21
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 724
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e078ad7c0e08b1d4c9d7ac380f395fa7
+      internalID: 464570154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_22
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 724
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f60d48790296e34891f26312a3aa1c0
+      internalID: 1208706872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_23
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 724
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d73afa501014d4393ae3ef1019c0d4
+      internalID: 1408379668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 691
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba7413b3ba024d4c8c3f7dbe3f8d95d
+      internalID: -477154351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_25
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 691
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e4efae70e8e764a98cd99d4e0a4d37
+      internalID: -230194519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_26
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 691
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e609a6740f4015d4d9539e529f8b7a92
+      internalID: -317904274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_27
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 691
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d601c84ee21a9d479ae9e429f089cfe
+      internalID: -895918452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_28
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 691
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9ee6125e712cf4d86b29ccf2bb2855
+      internalID: -1534575248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_29
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 691
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409a8724af1933240a33f64b87eede72
+      internalID: -1520895066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_30
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 691
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f70d1111d1ed6342bef99378a5e1c3e
+      internalID: -1406925194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_31
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 691
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52698b3e20a6be4fa62203a69162676
+      internalID: -1231950686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_32
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 658
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63ae3e313f8f7c4597fd7d0fefebd38
+      internalID: 1561498147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_33
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 658
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47852140c41c2fa47b3d9b5a6d066c99
+      internalID: 1213854309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_34
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 658
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5109f8011f7634cb19a12188fc48cb
+      internalID: 1457163981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_35
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 658
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb4f69a0d8d1844daefdd2190fa11bd
+      internalID: 343761545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_36
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 658
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70868f8c7ec50d439664ad481cc1dd1
+      internalID: -607074094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_37
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 658
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2f7ea952341b044b9e2d9afdcfa03d
+      internalID: 2105898430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_38
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 658
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fc2b370647d2241ba318c23c520d24
+      internalID: 1462256638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_39
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 658
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d9bb5eb32d0ff4599f3c62fbeacccd
+      internalID: -674101367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_40
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 625
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf65768453bb2a41b9170b610895abc
+      internalID: 1224156599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_41
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 625
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f568e6433b2850c48b317b0f32cc137a
+      internalID: -1238218789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_42
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 625
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35c751d1723c3f438db46d22c4eae92
+      internalID: 1445900438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_43
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 625
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff385b54f2d2f248a97a9f0ee59ecaa
+      internalID: 1347267678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_44
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 625
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85552ceb29ec1b48b53470b40d0c309
+      internalID: -1823645960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_45
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 625
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca5e1230780c0945b799d9cf7086d2a
+      internalID: -521760618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_46
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 625
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a456a0c71ffd744aa00a37392fea654
+      internalID: -1430851631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_47
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 625
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c53cfd5ba9e9e409517ec5d55df5d5
+      internalID: -1197427168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 592
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c6f4f97e3840245997a21ae456fd86
+      internalID: 1917693625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_49
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 592
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fa24e4f18e1394f9c810bef4e54fb9
+      internalID: 132198304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_50
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 592
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4821ab775527a24fa79625a78a49361
+      internalID: 459229612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_51
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 592
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a842d7bc9ed1340a320d14ba35525c
+      internalID: -176182423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_52
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 592
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb44efb5d7899f4f879180bcbec95f3
+      internalID: -373751010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_53
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 592
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e30ae4d29b75d4d8be0d973ef2a08d
+      internalID: -1750999129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_54
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 592
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea35ecb7a93beb4fa824f901db63e5e
+      internalID: 1130406607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_55
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 592
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b981cd4561113124080fb959f63216b3
+      internalID: 948119006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_56
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 559
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cf0fb701361e845a0923bc8bb730a0
+      internalID: 422325953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_57
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 559
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39fc4538b52a7042862f571a0061aec
+      internalID: 1156358307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_58
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 559
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756bf9a0657f1c5449123608abe008cb
+      internalID: -1710170861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_59
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 559
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf1f8e03dd32a641bf7f317164eb93b
+      internalID: -1036339385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_60
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 559
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf2f97472e7c40499bd3d15a338ab61
+      internalID: -604419997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_61
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 559
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5095984f783cc4c4abc974bd82ecfe9f
+      internalID: -589043316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_62
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 559
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c9e91c18b6dfa4aae324c53b3e86ad
+      internalID: -972607722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_63
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 559
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc754b32ed84d34ba0785dcae345408
+      internalID: -530748407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_64
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 526
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f67054d39e66a94a90e72d67a228b9f
+      internalID: 1429569275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_65
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 526
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c12c51ef8d5d94caa85e3124451bb6
+      internalID: -1834649900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_66
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 526
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bda868865851ea4f95f69fd199db1be
+      internalID: 1618102266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_67
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 526
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4541c727ea7bf5146ad53fccd10e1054
+      internalID: 2138422121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_68
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 526
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db23cffd2b50d1a499c9a12b66d2307e
+      internalID: -1334294440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_69
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 526
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b14d5940c06296478ab05ceedebdc28
+      internalID: -1774940048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_70
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 526
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f06f0d663b69641adb8190b2571e6e
+      internalID: 812822917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_71
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 526
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd3fce10aff7c045bf42b637ce0a978
+      internalID: 729756823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_72
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 493
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346a8a9e09af40247993e9070bdeae29
+      internalID: 815630556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_73
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 493
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71e20e4aa3ba3146b22a24921d9c649
+      internalID: 168643839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_74
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 493
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb537b5b568b3e49bcafddd8a5938bf
+      internalID: -342541936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_75
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 493
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543906b8a39968849ae9190022e352ca
+      internalID: -740802052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_76
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 493
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79878890619a58b4499dd3f783227d74
+      internalID: 1964210705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_77
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 493
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4591aa584432f49a5e5f811aebf439
+      internalID: 2134744575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_78
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 493
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64071934c7cd244da6c1f7c594ad101
+      internalID: -241623665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_79
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 493
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2168d75ed4c00ed47859a60e2e4c3ef1
+      internalID: -2052375890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_80
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 460
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf349033e3450484388eddfc37b7cf95
+      internalID: -1071289915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_81
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 460
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66113d0dbb64d8344b6b49011608f39d
+      internalID: -1357464192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_82
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 460
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8690ad23c65f374f8211957eb064877
+      internalID: 888063192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_83
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 460
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069ebcdade890f647ab61f9dfc0cacae
+      internalID: 1166151417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_84
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 460
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e292aecd37344604283b36a399afe047
+      internalID: -1773885026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_85
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 460
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d24f278a9f2bea488b7d655f5e33ab4
+      internalID: 578766404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_86
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 460
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc40c37fab3b8d489942aa7cfd4d6dd
+      internalID: 1329037555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_87
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 460
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0818f3af5df7b4f4f85082a19eea9042
+      internalID: 353905967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_88
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881e1924619f10145a304c032c49e2f0
+      internalID: 2090532645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_89
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576c43a7ded0ce04582262a0e05955d9
+      internalID: 1071986395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_90
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf800e7201d3ed43ac463268ced02b4
+      internalID: -725420817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_91
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fc926e8cb50d94ab9d308976bd6804
+      internalID: -1090910801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_92
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f1449047d7962499c341fc156783fc
+      internalID: -664229036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_93
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7138e706ed6b447a4795dd81893584
+      internalID: 737530032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_94
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f92ef6c6ba78f46ac95907ae1073f5
+      internalID: 1180613227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_95
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58acf82618ef6541893aa8aa7f7e836
+      internalID: -1862337798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_96
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 394
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8c35e6482d6b144a41300c0ef3975b
+      internalID: 538192934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_97
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 394
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ac60ba5bd7a474c929ee2c27156d30
+      internalID: 1514685979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_98
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 394
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3eb82a7bc9bf1d4db44ad4ae2b8bd72
+      internalID: 1769625807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_99
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 394
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3eee6a60f2c4c645a468aad691b0ae2
+      internalID: 1490844713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_100
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 394
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93dbfb940f7308f418cc67d834bb81b1
+      internalID: 1351515923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_101
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 394
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a03a457bec6be4a8425b0acafa2243
+      internalID: -2052085443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_102
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 394
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd006abed4baa8948a79c82da9dbe310
+      internalID: 459673030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_103
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 394
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03157e48546431149b77defa4102afc0
+      internalID: 212769532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_104
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 361
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0d5f0bd7567d24f8b3892ddd55dac1
+      internalID: -895768959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_105
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 361
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8480f0587dac347a847dc62f0e6367
+      internalID: 1652151088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_106
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 361
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78f7b3a73177c7419c3b19f448e0573
+      internalID: -1046793768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_107
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 361
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a64a4467d181394585d60ba1bee5af2
+      internalID: 55742330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_108
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 361
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409a2f690e5b8464293b530aef22985f
+      internalID: -1168118624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_109
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 361
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3721503508e414cbb53dda3c245254
+      internalID: -292741710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_110
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 361
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4576168edb5d2ec46a56dc8b8aafd84a
+      internalID: 1176196239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_111
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 361
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d681c8a003ae4a4697d05f93f1b469f
+      internalID: 1895332682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_112
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a795a6b65bbdc445905c9fe7641ade5
+      internalID: 1549524872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_113
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e45f5a2ccae8e47b1d19e7887475e6
+      internalID: 1779689410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_114
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9dd0d76d12c05478e53cdd2b38a70b
+      internalID: -1281286639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_115
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee6f5714e19d5242aa79ce87f7df69d
+      internalID: -1363991592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_116
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885610451f7bcc542a4d92bf4df8b26b
+      internalID: 1029741167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_117
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020fef9581f979e4cac98cfb92b3a3de
+      internalID: -71420339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_118
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b943ad43db96e447ad74a9c3c4380c7
+      internalID: 2065373182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_119
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c60b065ddd9b54abd7c83cc89fb83c
+      internalID: 1502044024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_120
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f6db3031348f040b9aa0bb626434ea
+      internalID: -1584770846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_121
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bd2b4516f96f346aba99d0a46fc8a2
+      internalID: -309720716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_122
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf470f0f0a7e17d4da59ece7c7229332
+      internalID: 851142490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_123
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dff5119744bd1449a6ccac5b9c9c5a
+      internalID: 1592749350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_124
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08946589647fcc4bb4a33382c6cfb2d
+      internalID: -1824361216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_125
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537155de131cde34fb7e2b66503c1dd9
+      internalID: -1586736074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_126
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db22a08c84bec0c4bb0a6a6fc688b879
+      internalID: -1093808254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_127
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21685faa952d42d4f876103415bfbeb8
+      internalID: 501090153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_128
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9d0d8abbe5fe444869f5ab1a38638d
+      internalID: -1881951287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_129
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f168b6c5b886214db367323da215b31
+      internalID: 1469679975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_130
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fc304b636772147847e8e1c73f10ef
+      internalID: -734264145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_131
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9c7f88e4f897640932a216872f9ce3
+      internalID: -2122166268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_132
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941591b2166ab5c4287dc02eaf2d9035
+      internalID: -866304268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_133
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fadb0d60717869408e1af9ca9a40fa8
+      internalID: 1159566170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_134
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d8bc2f339ba8d4b98c115031c7e8b6
+      internalID: -14498393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_135
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a39b0fc6567d36429607fab88700bad
+      internalID: 1432167500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_136
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 229
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b0f78197632c24194d084047b66691
+      internalID: 201433334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_137
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 229
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e1bcb9b499d604db63541f4bfc69b4
+      internalID: -1910585788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_138
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 229
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c471aab89383db8498c03f4a5d89acd8
+      internalID: -826034339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_139
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 229
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f2f656e95b6a04c90c03e046d2aff8
+      internalID: -808252657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_140
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 229
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344a4686a1101b145ba5076f378c0a87
+      internalID: -1945025137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_141
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 229
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd714ab9666d7a43b78181a4a82749a
+      internalID: -1829892392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_142
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 229
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10de1d2fc7fbb0943ba7ff681d125565
+      internalID: -710451097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_143
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 229
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81515d9d98c933e48a30e77b174f6a60
+      internalID: 1417044256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_144
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 196
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece6b6b4328613a4cb9fe09c853df9c0
+      internalID: -55535279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_145
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 196
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4f7482fd4e71440b91dae155ee9bfb
+      internalID: -558629687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_146
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 196
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbca085e98c14c4b9bd6b1472d49ede
+      internalID: 358491009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_147
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 196
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5ab870b4a85914caa020f781fd9e43
+      internalID: -1417931791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_148
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 196
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a2a6fc2dbb42e4686e3633018acbb7
+      internalID: 45599496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_149
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 196
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0190956f1b8ad7640a2bee99337373fe
+      internalID: 2088602074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_150
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 196
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099e72dd3cd8d3444aa60b9a91fcdd6e
+      internalID: 1009481134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_151
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 196
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f140959b5a73a5b4abc0247d773d7107
+      internalID: -1592502589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_152
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 163
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3444c6984710184fb6da8b8b45c079b
+      internalID: -1346437429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_153
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 163
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3842e9b8806c2cc4d8391124d92c25fc
+      internalID: 924922379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_154
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 163
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abef98612e8eb3a4cbd51262e034a25e
+      internalID: -66537742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_155
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 163
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150313b87f6da184680dba628cbe048b
+      internalID: -1226779812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_156
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 163
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b87cdfa833825d4f9c29e663d575707
+      internalID: -1064723395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_157
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 163
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfc2eaf0fb614a478bf419efd51e43b
+      internalID: -2009416743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_158
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 163
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d0c162fcdad164abd990d486afd568
+      internalID: 1318445604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_159
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 163
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b034b22ba04b63b4dba2db84629a5419
+      internalID: -1132077974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_160
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf3b52be1c43b44ca81eab6b916fc33
+      internalID: -1046676245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_161
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be59bbee25e5984ba6a376acb81565d
+      internalID: -1933635416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_162
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6196f2fd99f6ac74d8b6a0e32c6d8710
+      internalID: -210234596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_163
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662f1bc4f8f51ab4aa23cd4ee2a42b78
+      internalID: -557268235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_164
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073606ce21587f944a56e3807dea5dd2
+      internalID: 1158824145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_165
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce3d66f3166f2c4fa0d6c0c5b6b8c27
+      internalID: 1649710226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_168
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a3265e7c5187b4aa9dded1a2b2ec73
+      internalID: -712586414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_169
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037484d068e64664d9c1b4ec1f6a6558
+      internalID: -782428426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_170
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c760ded885ecf642ab0a862a5b246a7
+      internalID: -1360962011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_171
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4cf67da4d96f440827df75329c3588
+      internalID: 1882789450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_172
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ed9586a2020984a8ebe1d27a8e8476
+      internalID: -1844945058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_173
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa81e5e21d8ae2543a44da07d70e09bc
+      internalID: -2058133735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecb9837cfd1fb84c9d864350946131c
+      internalID: 1925023891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_178
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 16
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87630f7274b4be47bc1893c5d18f562
+      internalID: -1630571250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_180
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 16
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382d02d0d64765a43892db1fcb983e2d
+      internalID: -1312044175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_182
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 16
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405e7e04ab5381444afd827b94207831
+      internalID: -1987664605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_166
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8083dfaafbf79af4d81eb7f11fde8f24
+      internalID: -820764577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_167
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306a57d022e9f5d4395f06da22b67411
+      internalID: -502623352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_174
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd880598e02fc0d4888eb2ad5e300eb1
+      internalID: 49554287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_175
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098123e66c3d5c14a98cf81c192ad06e
+      internalID: -1569150811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_192
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33647bdca639a9f4d923df784f0379d6
+      internalID: -99181952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_193
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75009189a5cd82458fe61751ea3232a
+      internalID: 1011389886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_Bullet
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdf0ed3e93be194299d134e5e4637a5
+      internalID: -930423656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squad_Bullet_Impact
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc2db0fa95ac0244903857c74bdbf1f
+      internalID: 2062095474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Squad_88: 2090532645
+      Squad_122: 851142490
+      Squad_188: 248653810
+      Squad_132: -866304268
+      Squad_12: -1829721258
+      Squad_39: -674101367
+      Squad_181: 1604624323
+      Squad_80: -1071289915
+      Squad_175: -1569150811
+      Squad_118: 2065373182
+      Squad_33: 1213854309
+      Squad_129: 1469679975
+      Squad_128: -1881951287
+      Squad_165: 1649710226
+      Squad_13: 1729080643
+      Squad_141: -1829892392
+      Squad_Green_SW: -1264520565
+      Squad_179: 71774156
+      Squad_116: 1029741167
+      Squad_86: 1329037555
+      Squad_185: 126061530
+      Squad_167: -502623352
+      Squad_45: -521760618
+      Squad_156: -1064723395
+      Squad_170: -1360962011
+      Squad_115: -1363991592
+      Squad_136: 201433334
+      Squad_14: -1349156337
+      Squad_89: 1071986395
+      Squad_160: -1046676245
+      Squad_189: -717720497
+      Squad_67: 2138422121
+      Squad_143: 1417044256
+      Squad_183: 1741106209
+      Squad_193: 1011389886
+      Squad_Bullet_Impact: 2062095474
+      Squad_103: 212769532
+      Squad_178: -1630571250
+      Squad_27: -895918452
+      Squad_85: 578766404
+      Squad_177: 390971430
+      Squad_47: -1197427168
+      Squad_84: -1773885026
+      Squad_20: -1244481970
+      Squad_51: -176182423
+      Squad_155: -1226779812
+      Squad_117: -71420339
+      Squad_126: -1093808254
+      Squad_93: 737530032
+      Squad_172: -1844945058
+      Squad_4: 696189054
+      Squad_162: -210234596
+      Squad_5: 987137617
+      Squad_98: 1769625807
+      Squad_113: 1779689410
+      Squad_58: -1710170861
+      Squad_161: -1933635416
+      Squad_110: 1176196239
+      Squad_17: -1121554798
+      Squad_187: -1677783502
+      Squad_78: -241623665
+      Squad_26: -317904274
+      Squad_186: -395767279
+      Squad_68: -1334294440
+      Squad_104: -895768959
+      Squad_36: -607074094
+      Squad_77: 2134744575
+      Squad_182: -1987664605
+      Squad_31: -1231950686
+      Squad_114: -1281286639
+      Squad_15: 1916915090
+      Squad_19: -1383326625
+      Squad_97: 1514685979
+      Squad_71: 729756823
+      Squad_133: 1159566170
+      Squad_166: -820764577
+      Squad_190: -1456220645
+      Squad_63: -530748407
+      Squad_134: -14498393
+      Squad_76: 1964210705
+      Squad_44: -1823645960
+      Squad_124: -1824361216
+      Squad_55: 948119006
+      Squad_91: -1090910801
+      Squad_Green_W: 532791940
+      Squad_81: -1357464192
+      Squad_46: -1430851631
+      Squad_106: -1046793768
+      Squad_108: -1168118624
+      Squad_43: 1347267678
+      Squad_95: -1862337798
+      Squad_180: -1312044175
+      Squad_40: 1224156599
+      Squad_62: -972607722
+      Squad_38: 1462256638
+      Squad_154: -66537742
+      Squad_25: -230194519
+      Squad_61: -589043316
+      Squad_153: 924922379
+      Squad_157: -2009416743
+      Squad_163: -557268235
+      Squad_176: 1925023891
+      Squad_192: -99181952
+      Squad_159: -1132077974
+      Squad_30: -1406925194
+      Squad_107: 55742330
+      Squad_164: 1158824145
+      Squad_148: 45599496
+      Squad_121: -309720716
+      Squad_171: 1882789450
+      Squad_53: -1750999129
+      Squad_102: 459673030
+      Squad_Green_SE: -1883647608
+      Squad_49: 132198304
+      Squad_24: -477154351
+      Squad_111: 1895332682
+      Squad_82: 888063192
+      Squad_149: 2088602074
+      Squad_37: 2105898430
+      Squad_72: 815630556
+      Squad_96: 538192934
+      Squad_34: 1457163981
+      Squad_48: 1917693625
+      Squad_65: -1834649900
+      Squad_151: -1592502589
+      Squad_Green_NW: -1088560699
+      Squad_142: -710451097
+      Squad_131: -2122166268
+      Squad_87: 353905967
+      Squad_Green_N: 136153955
+      Squad_57: 1156358307
+      Squad_60: -604419997
+      Squad_100: 1351515923
+      Squad_70: 812822917
+      Squad_158: 1318445604
+      Squad_Bullet: -930423656
+      Squad_146: 358491009
+      Squad_21: 464570154
+      Squad_32: 1561498147
+      Squad_184: 1404458510
+      Squad_125: -1586736074
+      Squad_23: 1408379668
+      Squad_18: -2137136999
+      Squad_140: -1945025137
+      Squad_64: 1429569275
+      Squad_16: -1381826090
+      Squad_112: 1549524872
+      Squad_147: -1417931791
+      Squad_130: -734264145
+      Squad_135: 1432167500
+      Squad_127: 501090153
+      Squad_83: 1166151417
+      Squad_105: 1652151088
+      Squad_35: 343761545
+      Squad_7: 1950761041
+      Squad_123: 1592749350
+      Squad_42: 1445900438
+      Squad_50: 459229612
+      Squad_119: 1502044024
+      Squad_191: 458756661
+      Squad_79: -2052375890
+      Squad_74: -342541936
+      Squad_56: 422325953
+      Squad_94: 1180613227
+      Squad_150: 1009481134
+      Squad_Green_S: 554415066
+      Squad_54: 1130406607
+      Squad_101: -2052085443
+      Squad_28: -1534575248
+      Squad_29: -1520895066
+      Squad_41: -1238218789
+      Squad_69: -1774940048
+      Squad_66: 1618102266
+      Squad_6: -973765204
+      Squad_59: -1036339385
+      Squad_169: -782428426
+      Squad_139: -808252657
+      Squad_152: -1346437429
+      Squad_Green_NE: -658001461
+      Squad_99: 1490844713
+      Squad_173: -2058133735
+      Squad_22: 1208706872
+      Squad_168: -712586414
+      Squad_120: -1584770846
+      Squad_109: -292741710
+      Squad_73: 168643839
+      Squad_75: -740802052
+      Squad_144: -55535279
+      Squad_Green_E: -562586266
+      Squad_52: -373751010
+      Squad_137: -1910585788
+      Squad_145: -558629687
+      Squad_174: 49554287
+      Squad_90: -725420817
+      Squad_92: -664229036
+      Squad_138: -826034339
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

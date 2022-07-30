@@ -1,0 +1,1 @@
+﻿public enum FacingDirection{ Up, UpRight, Right, DownRight, Down, DownLeft, Left, UpLeft }
