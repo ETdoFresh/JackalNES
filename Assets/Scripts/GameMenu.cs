@@ -14,6 +14,7 @@ public class GameMenu : MonoBehaviour
     [SerializeField] private GameObject selection1;
     [SerializeField] private GameObject selection2;
     [SerializeField] private AudioSource startSound;
+    [SerializeField] private AudioSource storySound;
     [SerializeField] private float delayUntilNextScene = 1.5f;
     private InputActions _inputActions;
     private Selection _previousSelection;
@@ -53,6 +54,7 @@ public class GameMenu : MonoBehaviour
         _inputActions.Menu.Start.performed += RestartDirector;
         _inputActions.Menu.Select.performed += RestartDirector;
         selection = Selection.Disabled;
+        storySound.Play();
     }
 
     private void RemoveAllListeners()
