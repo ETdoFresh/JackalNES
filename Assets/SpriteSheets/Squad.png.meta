@@ -3164,7 +3164,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squad_144
+      name: Squad_Grenade1
       rect:
         serializedVersion: 2
         x: 10
@@ -3185,7 +3185,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squad_145
+      name: Squad_Grenade2
       rect:
         serializedVersion: 2
         x: 43
@@ -3206,7 +3206,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squad_146
+      name: Squad_Grenade3
       rect:
         serializedVersion: 2
         x: 76
@@ -3227,7 +3227,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squad_147
+      name: Squad_Grenade4
       rect:
         serializedVersion: 2
         x: 109
@@ -3248,7 +3248,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squad_148
+      name: Squad_MissleNW
       rect:
         serializedVersion: 2
         x: 142
@@ -3269,7 +3269,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squad_149
+      name: Squad_MissleN
       rect:
         serializedVersion: 2
         x: 175
@@ -3290,7 +3290,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squad_150
+      name: Squad_MissleNE
       rect:
         serializedVersion: 2
         x: 208
@@ -3311,7 +3311,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squad_151
+      name: Squad_MissleE
       rect:
         serializedVersion: 2
         x: 241
@@ -3332,7 +3332,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squad_152
+      name: Squad_Grenade5
       rect:
         serializedVersion: 2
         x: 10
@@ -3353,7 +3353,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squad_153
+      name: Squad_Grenade6
       rect:
         serializedVersion: 2
         x: 43
@@ -3374,7 +3374,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squad_154
+      name: Squad_Grenade7
       rect:
         serializedVersion: 2
         x: 76
@@ -3395,7 +3395,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squad_155
+      name: Squad_Grenade8
       rect:
         serializedVersion: 2
         x: 109
@@ -3416,7 +3416,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squad_156
+      name: Squad_MissleW
       rect:
         serializedVersion: 2
         x: 142
@@ -3437,7 +3437,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squad_157
+      name: Squad_MissleSW
       rect:
         serializedVersion: 2
         x: 175
@@ -3458,7 +3458,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squad_158
+      name: Squad_MissleS
       rect:
         serializedVersion: 2
         x: 208
@@ -3479,7 +3479,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squad_159
+      name: Squad_MissleSE
       rect:
         serializedVersion: 2
         x: 241
@@ -3500,7 +3500,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squad_160
+      name: Squad_Explosion1_1
       rect:
         serializedVersion: 2
         x: 10
@@ -3521,7 +3521,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squad_161
+      name: Squad_Explosion1_2
       rect:
         serializedVersion: 2
         x: 43
@@ -3542,7 +3542,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squad_162
+      name: Squad_Explosion1_3
       rect:
         serializedVersion: 2
         x: 76
@@ -3563,7 +3563,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squad_163
+      name: Squad_Explosion1_4
       rect:
         serializedVersion: 2
         x: 109
@@ -3584,7 +3584,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squad_164
+      name: Squad_Explosion1_5
       rect:
         serializedVersion: 2
         x: 142
@@ -3605,7 +3605,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squad_165
+      name: Squad_Explosion1_6
       rect:
         serializedVersion: 2
         x: 175
@@ -3626,7 +3626,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squad_168
+      name: Squad_Explosion2_1
       rect:
         serializedVersion: 2
         x: 10
@@ -3647,7 +3647,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squad_169
+      name: Squad_Explosion2_2
       rect:
         serializedVersion: 2
         x: 43
@@ -3668,7 +3668,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squad_170
+      name: Squad_Explosion2_3
       rect:
         serializedVersion: 2
         x: 76
@@ -3689,7 +3689,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squad_171
+      name: Squad_Explosion2_4
       rect:
         serializedVersion: 2
         x: 109
@@ -3710,7 +3710,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squad_172
+      name: Squad_Explosion2_5
       rect:
         serializedVersion: 2
         x: 142
@@ -3731,7 +3731,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squad_173
+      name: Squad_Explosion2_6
       rect:
         serializedVersion: 2
         x: 175
@@ -4012,7 +4012,7 @@ TextureImporter:
         width: 72
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4033,7 +4033,7 @@ TextureImporter:
         width: 72
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4054,7 +4054,7 @@ TextureImporter:
         width: 72
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4075,7 +4075,7 @@ TextureImporter:
         width: 72
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4110,31 +4110,33 @@ TextureImporter:
       Squad_80: -1071289915
       Squad_175: -1569150811
       Squad_118: 2065373182
+      Squad_MissleN: 2088602074
+      Squad_MissleNW: 45599496
+      Squad_Explosion2_2: -782428426
       Squad_33: 1213854309
-      Squad_165: 1649710226
       Squad_129: 1469679975
       Squad_128: -1881951287
+      Squad_Grenade3: 358491009
       Squad_Bullet_Impact: 2062095474
       Squad_13: 1729080643
       Squad_Green_SW: -1264520565
       Squad_141: -1829892392
-      Squad_179: 71774156
+      Squad_115: -1363991592
       Squad_116: 1029741167
       Squad_86: 1329037555
       Squad_185: 126061530
       Squad_167: -502623352
       Squad_45: -521760618
-      Squad_156: -1064723395
-      Squad_170: -1360962011
-      Squad_115: -1363991592
+      Squad_Portrait2: -1630571250
+      Squad_MissleE: -1592502589
+      Squad_179: 71774156
       Squad_136: 201433334
       Squad_14: -1349156337
       Squad_89: 1071986395
-      Squad_160: -1046676245
       Squad_189: -717720497
       Squad_67: 2138422121
       Squad_143: 1417044256
-      Squad_Portrait2: -1630571250
+      Squad_Explosion1_4: -557268235
       Squad_183: 1741106209
       Squad_193: 1011389886
       Squad_103: 212769532
@@ -4143,32 +4145,34 @@ TextureImporter:
       Squad_Portrait4: -1987664605
       Squad_177: 390971430
       Squad_47: -1197427168
+      Squad_MissleW: -1064723395
       Squad_84: -1773885026
       Squad_20: -1244481970
       Squad_51: -176182423
-      Squad_155: -1226779812
+      Squad_MissleSE: -1132077974
       Squad_117: -71420339
       Squad_126: -1093808254
       Squad_93: 737530032
-      Squad_172: -1844945058
       Squad_4: 696189054
-      Squad_162: -210234596
       Squad_5: 987137617
       Squad_98: 1769625807
       Squad_113: 1779689410
       Squad_58: -1710170861
-      Squad_161: -1933635416
       Squad_110: 1176196239
       Squad_17: -1121554798
       Squad_187: -1677783502
       Squad_78: -241623665
       Squad_26: -317904274
       Squad_186: -395767279
+      Squad_Grenade4: -1417931791
+      Squad_Explosion2_4: 1882789450
       Squad_68: -1334294440
       Squad_104: -895768959
+      Squad_Grenade8: -1226779812
       Squad_36: -607074094
       Squad_77: 2134744575
       Squad_31: -1231950686
+      Squad_Explosion2_1: -712586414
       Squad_114: -1281286639
       Squad_15: 1916915090
       Squad_19: -1383326625
@@ -4176,6 +4180,8 @@ TextureImporter:
       Squad_71: 729756823
       Squad_133: 1159566170
       Squad_166: -820764577
+      Squad_Explosion1_1: -1046676245
+      Squad_MissleNE: 1009481134
       Squad_190: -1456220645
       Squad_63: -530748407
       Squad_134: -14498393
@@ -4188,26 +4194,22 @@ TextureImporter:
       Squad_81: -1357464192
       Squad_46: -1430851631
       Squad_106: -1046793768
+      Squad_Explosion2_3: -1360962011
       Squad_108: -1168118624
       Squad_43: 1347267678
+      Squad_Grenade2: -558629687
+      Squad_Explosion1_3: -210234596
+      Squad_MissleSW: -2009416743
       Squad_95: -1862337798
       Squad_40: 1224156599
       Squad_62: -972607722
       Squad_38: 1462256638
-      Squad_154: -66537742
+      Squad_192: -99181952
       Squad_25: -230194519
       Squad_61: -589043316
-      Squad_153: 924922379
-      Squad_157: -2009416743
-      Squad_163: -557268235
-      Squad_192: -99181952
-      Squad_159: -1132077974
       Squad_30: -1406925194
       Squad_107: 55742330
-      Squad_164: 1158824145
-      Squad_148: 45599496
       Squad_121: -309720716
-      Squad_171: 1882789450
       Squad_53: -1750999129
       Squad_102: 459673030
       Squad_Green_SE: -1883647608
@@ -4215,14 +4217,13 @@ TextureImporter:
       Squad_24: -477154351
       Squad_111: 1895332682
       Squad_82: 888063192
-      Squad_149: 2088602074
       Squad_37: 2105898430
       Squad_72: 815630556
       Squad_96: 538192934
+      Squad_Explosion2_6: -2058133735
       Squad_34: 1457163981
       Squad_48: 1917693625
       Squad_65: -1834649900
-      Squad_151: -1592502589
       Squad_Green_NW: -1088560699
       Squad_142: -710451097
       Squad_131: -2122166268
@@ -4231,29 +4232,32 @@ TextureImporter:
       Squad_57: 1156358307
       Squad_60: -604419997
       Squad_100: 1351515923
+      Squad_Explosion2_5: -1844945058
       Squad_70: 812822917
-      Squad_158: 1318445604
       Squad_Bullet: -930423656
-      Squad_146: 358491009
       Squad_21: 464570154
       Squad_32: 1561498147
       Squad_184: 1404458510
       Squad_125: -1586736074
+      Squad_Explosion1_2: -1933635416
       Squad_23: 1408379668
       Squad_18: -2137136999
       Squad_140: -1945025137
       Squad_64: 1429569275
+      Squad_Explosion1_5: 1158824145
       Squad_16: -1381826090
       Squad_112: 1549524872
-      Squad_147: -1417931791
       Squad_130: -734264145
       Squad_135: 1432167500
       Squad_127: 501090153
       Squad_83: 1166151417
       Squad_105: 1652151088
+      Squad_Grenade5: -1346437429
+      Squad_Grenade7: -66537742
       Squad_35: 343761545
       Squad_7: 1950761041
       Squad_123: 1592749350
+      Squad_Explosion1_6: 1649710226
       Squad_42: 1445900438
       Squad_50: 459229612
       Squad_119: 1502044024
@@ -4263,7 +4267,7 @@ TextureImporter:
       Squad_Portrait3: -1312044175
       Squad_56: 422325953
       Squad_94: 1180613227
-      Squad_150: 1009481134
+      Squad_MissleS: 1318445604
       Squad_Title2: 729342547
       Squad_Green_S: 554415066
       Squad_54: 1130406607
@@ -4275,25 +4279,21 @@ TextureImporter:
       Squad_66: 1618102266
       Squad_6: -973765204
       Squad_59: -1036339385
-      Squad_169: -782428426
       Squad_139: -808252657
-      Squad_152: -1346437429
       Squad_Green_NE: -658001461
       Squad_Title3: -909709781
       Squad_99: 1490844713
-      Squad_173: -2058133735
       Squad_Portrait1: 1925023891
+      Squad_Grenade6: 924922379
       Squad_22: 1208706872
-      Squad_168: -712586414
       Squad_120: -1584770846
       Squad_109: -292741710
       Squad_73: 168643839
       Squad_75: -740802052
-      Squad_144: -55535279
       Squad_Green_E: -562586266
+      Squad_Grenade1: -55535279
       Squad_52: -373751010
       Squad_137: -1910585788
-      Squad_145: -558629687
       Squad_174: 49554287
       Squad_90: -725420817
       Squad_92: -664229036
