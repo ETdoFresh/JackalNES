@@ -79,14 +79,14 @@ public class GameMenu : MonoBehaviour
 
     private void RestartDirector(InputAction.CallbackContext context)
     {
-        director.time = 0;
-        director.Play();
+        RestartMenu();
     }
 
     private IEnumerator StartGameRoutine()
     {
         _inputActions.Disable();
         director.Pause();
+        storySound.Stop();
         startSound.Play();
         yield return new WaitForSeconds(delayUntilNextScene);
         SceneManager.LoadScene("Overview");
@@ -101,15 +101,23 @@ public class GameMenu : MonoBehaviour
             case Selection.Players1:
                 selection1.SetActive(true);
                 selection2.SetActive(false);
+                RestartMenu();
                 break;
             case Selection.Players2:
                 selection1.SetActive(false);
                 selection2.SetActive(true);
+                RestartMenu();
                 break;
             case Selection.Disabled:
                 selection1.SetActive(false);
                 selection2.SetActive(false);
                 break;
         }
+    }
+
+    private void RestartMenu()
+    {
+        director.time = 0;
+        storySound.Stop();
     }
 }

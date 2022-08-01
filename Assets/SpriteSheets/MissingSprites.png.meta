@@ -1,0 +1,1012 @@
+fileFormatVersion: 2
+guid: f6f28db59454ae746b48a6c8c12bccbd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MissingSprites_Bullet
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1918
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d9bebdd7cfe3b44ab4cfbc9f8df364
+      internalID: 1355180070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_SoldierRight
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1918
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c9288a5908c6649b23c0e3b49761e3
+      internalID: 843183390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_SoldierDown
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1918
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed44da4f8cd4d8c41a50aa3c467f47bc
+      internalID: 110498127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_SoldierUp
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1918
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdf16cbe76626f49b01d655db4de212
+      internalID: -293806224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_SoldierRight1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1918
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f7da223ef96724b9e244450ad538f4
+      internalID: -566255414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_SoldierDown1
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1918
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a919e8c30c84f964b8d6e9f893821205
+      internalID: 2066960724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_SoldierUp1
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1918
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcefcc6ff86ac704999e414650ac9445
+      internalID: -923790386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_SoldierDead
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1918
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b26adbddec7564b86e6444a5b8d655
+      internalID: 565531379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_SoldierFlashRight
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1918
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe367933f475934a9317fa4d0315604
+      internalID: 1936509909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_SolderFlashDown
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1918
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c88c4d2ae32da4b97741017463ff8e
+      internalID: 948474797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_SoldierFlashUp
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1918
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8112751daf2e527428ef8dee16855e2b
+      internalID: -1452189159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_SoldierFlashRight1
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1918
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071a80da826023c46a540dc2ce47b62a
+      internalID: 1470344298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_SoldierFlashDown1
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1919
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c28187d54fba64ebb908c935018901
+      internalID: 1049875560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_SoldierFlashUp1
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1918
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67e510454995114d8bcd52d73fb6ca3
+      internalID: 1605119231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_SoldierFlashDead
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1918
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bda277997ffae418ea697116ecb8f5
+      internalID: 1804652487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_TurretE
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1785
+        width: 192
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7961f28dada154687e59a5a54cdce6
+      internalID: -924727238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_TurretSW
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1754
+        width: 192
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fcafb952a2d0141a4f7d3afc6cb8a7
+      internalID: -499546261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_TurretS
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1660
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d76fcd72b282e64f85282e9a59b8cba
+      internalID: 2028544984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_TurretSShoot
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1659
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a2965d4654ddc4d90b4cce7912f2ed
+      internalID: -286165193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_Ship1
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1658
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1738b7dd51d47c341abf26c70d4c2e56
+      internalID: -1896025915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_Ship2
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1658
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb899245708d954bbf0940894062322
+      internalID: 517685320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_TurretEShoot
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1653
+        width: 192
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ee175492d37c247a1940273a197da6
+      internalID: 1813564437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_TurretSWShoot
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1591
+        width: 192
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90fcd76ff4ac2447bf7b03d202849d9
+      internalID: 1017122471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_HeliGround1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1331
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400d6119e1283804aad01ba9a5dd42b9
+      internalID: 1203742642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_HeliGround2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1331
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a93c1930838deb44af99f6ba1602987
+      internalID: 1245129647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_Heli2
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1331
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccd9c4d6bf5ea94db1e16317690f85e
+      internalID: -1384217273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_HeliTakeOff1
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1331
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b904c19acdb19d46a4e392c150964ad
+      internalID: -721634878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_IntroHeli1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426
+        width: 512
+        height: 896
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f0e16b3894f204fa7ae225d23f7b40
+      internalID: -1217198519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_IntroHeli2
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 426
+        width: 512
+        height: 896
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238a4f240a92f314fb8d2b016591446f
+      internalID: 1632591151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_Heli1
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1331
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7893732eb2c29044bb3df0ab554008c
+      internalID: 1818192916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MissingSprites_160: -59964744
+      MissingSprites_87: -940118617
+      MissingSprites_219: 1426295757
+      MissingSprites_133: 2127636616
+      MissingSprites_SoldierDown: 110498127
+      MissingSprites_209: 1134268053
+      MissingSprites_110: 127630931
+      MissingSprites_37: 1061623678
+      MissingSprites_64: -957977673
+      MissingSprites_125: -780609243
+      MissingSprites_71: -532227189
+      MissingSprites_165: 964936441
+      MissingSprites_215: -2130905105
+      MissingSprites_72: 844296622
+      MissingSprites_186: 1223201943
+      MissingSprites_137: 1759052009
+      MissingSprites_156: -295043533
+      MissingSprites_177: 238335654
+      MissingSprites_82: 1615708519
+      MissingSprites_147: 1567447952
+      MissingSprites_TurretEShoot: -1896025915
+      MissingSprites_138: -2057859378
+      MissingSprites_208: -939522017
+      MissingSprites_112: -2114318914
+      MissingSprites_93: -1754246272
+      MissingSprites_194: -1134531571
+      MissingSprites_31: -131873281
+      MissingSprites_90: -1989428017
+      MissingSprites_101: -1317983002
+      MissingSprites_SoldierUp: -293806224
+      MissingSprites_95: 96634878
+      MissingSprites_108: -2078708580
+      MissingSprites_70: -818525953
+      MissingSprites_207: 177626515
+      MissingSprites_107: -2032095299
+      MissingSprites_IntroHeli1: -1217198519
+      MissingSprites_43: 1734837671
+      MissingSprites_Ship2: 1203742642
+      MissingSprites_21: -2042461978
+      MissingSprites_141: 740318945
+      MissingSprites_164: -9589880
+      MissingSprites_143: 2070965459
+      MissingSprites_155: 1959687802
+      MissingSprites_196: 333485334
+      MissingSprites_81: -1613640675
+      MissingSprites_217: -368103073
+      MissingSprites_52: -636706477
+      MissingSprites_222: 1714737746
+      MissingSprites_TurretSW: 1017122471
+      MissingSprites_144: -1794042688
+      MissingSprites_46: -1677549845
+      MissingSprites_135: 1761956786
+      MissingSprites_40: 1703880642
+      MissingSprites_Heli2: -1384217273
+      MissingSprites_153: 428418810
+      MissingSprites_169: -256368579
+      MissingSprites_216: -926105039
+      MissingSprites_213: 378122520
+      MissingSprites_SolderFlashDown: 948474797
+      MissingSprites_154: -96242331
+      MissingSprites_49: 1028260901
+      MissingSprites_55: -550532770
+      MissingSprites_88: -281871554
+      MissingSprites_124: 27514355
+      MissingSprites_210: -727367875
+      MissingSprites_167: 770514302
+      MissingSprites_206: 213278230
+      MissingSprites_18: 1558714410
+      MissingSprites_180: 620627234
+      MissingSprites_SoldierFlashDown1: 1049875560
+      MissingSprites_SoldierUp1: -923790386
+      MissingSprites_47: 448478338
+      MissingSprites_28: 214750944
+      MissingSprites_20: -1969689178
+      MissingSprites_130: -685250595
+      MissingSprites_91: -203276969
+      MissingSprites_33: 572082287
+      MissingSprites_173: -187351437
+      MissingSprites_TurretSShoot: -924727238
+      MissingSprites_48: -1560509533
+      MissingSprites_204: 52089499
+      MissingSprites_83: -999176053
+      MissingSprites_89: 2126310416
+      MissingSprites_150: 541196220
+      MissingSprites_TurretE: 1813564437
+      MissingSprites_122: 1291855466
+      MissingSprites_134: 1262315158
+      MissingSprites_57: -833246228
+      MissingSprites_140: -756255036
+      MissingSprites_157: 8064400
+      MissingSprites_172: 1316969505
+      MissingSprites_193: 212008039
+      MissingSprites_96: -876182333
+      MissingSprites_58: -1791399363
+      MissingSprites_136: -122400874
+      MissingSprites_62: 1071964960
+      MissingSprites_102: -291524223
+      MissingSprites_77: 2095131939
+      MissingSprites_161: 2033412314
+      MissingSprites_211: 1108808719
+      MissingSprites_SoldierRight1: -566255414
+      MissingSprites_69: -179536216
+      MissingSprites_166: 2107732940
+      MissingSprites_63: 1002085073
+      MissingSprites_128: 1120927689
+      MissingSprites_146: -1746896722
+      MissingSprites_159: -1604824989
+      MissingSprites_HeliGround2: -721634878
+      MissingSprites_99: 1208873622
+      MissingSprites_IntroHeli2: 1632591151
+      MissingSprites_127: -2146868223
+      MissingSprites_36: -1187842010
+      MissingSprites_74: -859639415
+      MissingSprites_73: -1487356611
+      MissingSprites_39: 343809341
+      MissingSprites_15: -643667321
+      MissingSprites_97: 160625253
+      MissingSprites_66: -1285516527
+      MissingSprites_SoldierFlashUp: -1452189159
+      MissingSprites_176: 1504457160
+      MissingSprites_98: -643423748
+      MissingSprites_190: 1138500024
+      MissingSprites_170: -1076577239
+      MissingSprites_Bullet: 1355180070
+      MissingSprites_75: -947208809
+      MissingSprites_HeliGround1: 1245129647
+      MissingSprites_145: -1826780887
+      MissingSprites_103: 1600764635
+      MissingSprites_SoldierFlashRight: 1936509909
+      MissingSprites_68: -457114270
+      MissingSprites_200: -981249279
+      MissingSprites_158: 1205512806
+      MissingSprites_84: 2107329338
+      MissingSprites_192: -816477738
+      MissingSprites_109: -1158439501
+      MissingSprites_59: -1059907757
+      MissingSprites_129: 1834305545
+      MissingSprites_86: -569929423
+      MissingSprites_195: -520841255
+      MissingSprites_162: -1560430837
+      MissingSprites_189: -113567475
+      MissingSprites_111: 1728805263
+      MissingSprites_185: 1876919745
+      MissingSprites_131: 910713849
+      MissingSprites_181: 1736382137
+      MissingSprites_TurretSWShoot: 2028544984
+      MissingSprites_94: -802216798
+      MissingSprites_171: 593519397
+      MissingSprites_116: -2009708003
+      MissingSprites_80: -1673054854
+      MissingSprites_106: -1250792337
+      MissingSprites_214: -718021727
+      MissingSprites_100: -346836596
+      MissingSprites_223: 57115092
+      MissingSprites_76: 1035189646
+      MissingSprites_212: 1944256114
+      MissingSprites_119: 1632591151
+      MissingSprites_SoldierFlashRight1: 1145796512
+      MissingSprites_61: 1928385214
+      MissingSprites_60: 367263213
+      MissingSprites_45: -1695313002
+      MissingSprites_123: -1783573706
+      MissingSprites_32: -25765676
+      MissingSprites_201: -145711822
+      MissingSprites_218: -1667856467
+      MissingSprites_179: 1054715979
+      MissingSprites_188: -1713330313
+      MissingSprites_26: 1241929242
+      MissingSprites_Ship1: 517685320
+      MissingSprites_174: -574764544
+      MissingSprites_152: -837816215
+      MissingSprites_HeliTakeOff1: 1818192916
+      MissingSprites_25: 25468445
+      MissingSprites_221: 1573119785
+      MissingSprites_151: -467518945
+      MissingSprites_67: -474753824
+      MissingSprites_183: 1978320513
+      MissingSprites_197: 1099117044
+      MissingSprites_115: -1040202127
+      MissingSprites_118: 565531379
+      MissingSprites_SoldierDead: -1384021640
+      MissingSprites_Heli1: -1384217273
+      MissingSprites_142: 1804652487
+      MissingSprites_SoldierFlashDead: -344889898
+      MissingSprites_53: 91432317
+      MissingSprites_51: -1292430872
+      MissingSprites_187: -1202469519
+      MissingSprites_41: 323645929
+      MissingSprites_203: 1605119231
+      MissingSprites_SoldierFlashUp1: -1222010413
+      MissingSprites_126: -596660034
+      MissingSprites_168: -1144581385
+      MissingSprites_199: 843183390
+      MissingSprites_SoldierRight: -2090888756
+      MissingSprites_182: -2136618431
+      MissingSprites_149: -1217198519
+      MissingSprites_117: 1398722293
+      MissingSprites_SoldierDown1: 1369978814
+      MissingSprites_148: 2066960724
+      MissingSprites_44: -1174971603
+      MissingSprites_175: 1932145757
+      MissingSprites_50: -281174898
+      MissingSprites_184: 396050821
+      MissingSprites_TurretS: -286165193
+      MissingSprites_178: 563235861
+      MissingSprites_85: 252653876
+      MissingSprites_120: 914719279
+      MissingSprites_121: -705072785
+      MissingSprites_42: 1617688777
+      MissingSprites_92: 617298772
+      MissingSprites_198: -874041613
+      MissingSprites_34: 387872821
+      MissingSprites_113: -194550434
+      MissingSprites_23: 222295363
+      MissingSprites_104: -1132992074
+      MissingSprites_79: 220577607
+      MissingSprites_191: -1017439676
+      MissingSprites_220: 1639292256
+      MissingSprites_202: -1846277115
+      MissingSprites_139: 2085033548
+      MissingSprites_29: -247203963
+      MissingSprites_163: 358268697
+      MissingSprites_132: 238533990
+      MissingSprites_205: -499546261
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
